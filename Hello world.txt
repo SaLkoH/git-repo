@@ -1,5 +1,5 @@
 print("Hello world")
 print("Fuck you")
 print("Sorry")
-print("Привет")
-print("Как дела?")
+print("Oh hi there")
+print("How are you?")
