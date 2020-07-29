@@ -1,5 +1,7 @@
-print("Hello world")
-print("Fuck you")
-print("Sorry")
-print("Oh hi there")
-print("How are you?")
+<<<<<<< HEAD
+print("Hello world;")
+print("Fuck you;")
+print("Sorry;")
+print("Oh hi there;")
+print("How are you?;")
+
